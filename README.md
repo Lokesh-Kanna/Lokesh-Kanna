@@ -1,4 +1,4 @@
-<a align="center" href="#"><img width="50%" height="auto" src="4457.jpg" height="175px"/></a>
+<a align="center" href="#"><img width="80%" height="auto" src="4457.jpg" height="175px"/></a>
 
 <h1 align="center" style ="margin-top:40px">Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <br> I am <i><u>Lokesh Kanna</u></i></h1>
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
