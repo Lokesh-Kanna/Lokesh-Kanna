@@ -7,6 +7,8 @@
 
 ## 🙋‍♂️ About Me
 
+- 🧑‍💻 Currently working on **Thirukkural App**
+
 - 🌱 I’m currently learning **ReactJS**
 
 - 👨‍💻 I am interested in everyting technology oriented
